@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Namma-HomeStay</string>
+    <string name="welcome_message">Welcome to Namma-HomeStay</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register_prompt">Don\'t have an account? Register</string>
+    <string name="title_create_account">Create Account</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="splash_tagline">AUTHENTIC • RURAL • HERITAGE</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_menu">Menu</string>
+    <string name="nav_enquiries">Enquiries</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- SubScreens Strings -->
+    <string name="title_local_guide">Local Guide</string>
+    <string name="btn_add_nearby_place">Add Nearby Place</string>
+    <string name="title_add_nearby_place">Add Nearby Place</string>
+    <string name="label_place_name">Place Name</string>
+    <string name="label_description">Description</string>
+    <string name="btn_save_place">Save Place</string>
+    <string name="title_edit_profile">Edit Profile</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_phone_number">Phone Number</string>
+    <string name="btn_update_profile">Update Profile</string>
+    <string name="title_pricing_status">Pricing &amp; Status</string>
+    <string name="label_host_discovery">Host Discovery Active</string>
+    <string name="label_price_per_night">Price Per Night (₹)</string>
+    <string name="btn_save_changes">Save Changes</string>
+
+    <!-- AddMenuScreen Strings -->
+    <string name="title_add_new_dish">Add New Dish</string>
+    <string name="label_dish_name">Dish Name</string>
+    <string name="label_price_rupees">Price (₹)</string>
+    <string name="btn_publish_dish">Publish Dish</string>
+    <string name="content_desc_back">Back</string>
+
+    <!-- MainAppScreen Strings -->
+    <string name="title_main_app">Namma HomeStay</string>
+    <string name="content_desc_logout">Logout</string>
+    <string name="sample_stay_name">Malnad Heritage Home</string>
+    <string name="sample_stay_location">Shimoga, Karnataka</string>
+    <string name="sample_rating">4.8 ★</string>
+    <string name="sample_price">₹2,500/night</string>
+    <string name="title_stay_details">Stay Details</string>
+    <string name="label_max_capacity_value">4 People / Room</string>
+    <string name="label_max_capacity">Max Capacity</string>
+    <string name="btn_generate_ai">Generate Description (AI)</string>
+    <string name="title_local_menu">Local Menu</string>
+    <string name="btn_add_item">Add Item</string>
+    <string name="sample_dish_1">Ragi Mudde</string>
+    <string name="sample_dish_2">Neer Dosa</string>
+    <string name="sample_dish_3">Akki Roti</string>
+    <string name="sample_dish_desc">Traditional healthy meal</string>
+    <string name="sample_dish_price">₹120</string>
+    <string name="title_pending_enquiries">Pending Enquiries</string>
+    <string name="label_new">NEW</string>
+    <string name="sample_enquirer_name">Rohan Sharma</string>
+    <string name="sample_enquiry_date">3rd May 2026</string>
+    <string name="sample_enquiry_msg">Looking for a weekend stay for 4 people.</string>
+    <string name="btn_call_traveller">Call Traveller</string>
+    <string name="title_account_settings">Account Settings</string>
+    <string name="item_edit_profile">Edit Profile</string>
+    <string name="item_manage_places">Manage Local Places</string>
+    <string name="item_availability">Availability Calendar</string>
+</resources>
